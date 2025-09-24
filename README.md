@@ -6,7 +6,6 @@ Building **cloud networking**, **scalable APIs**, and **high-performance backend
 ### :hammer_and_wrench: Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=white)
 
 ### :mailbox: Connect 
